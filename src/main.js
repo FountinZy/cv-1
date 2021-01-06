@@ -47,6 +47,7 @@ let string = `
     border-radius: 50%;
     background: radial-gradient(circle, rgba(0,0,0,1) 0%, rgba(0,0,0,1) 25%, rgba(255,255,255,1) 25%, rgba(255,255,255,1) 100%, rgba(0,0,0,1) 100%);
 }
+感谢观看！祝您生活愉快！
 `;
 let string2 = "";
 console.log(string.length);//打出字符串的长度
